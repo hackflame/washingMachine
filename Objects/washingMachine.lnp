@@ -1,0 +1,3 @@
+".\Objects\main.obj" 
+TO ".\Objects\washingMachine" 
+PRINT(".\Listings\washingMachine.m51") RAMSIZE(256) 
